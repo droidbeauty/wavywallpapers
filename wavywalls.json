@@ -56,17 +56,20 @@
    {
       "name":"91",
       "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/91.png"
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/91.png",
+      "collections": "Shapes"
    },
    {
       "name":"90",
       "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/90.png"
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/90.png",
+      "collections": "Shapes"
    },
    {
       "name":"89",
       "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/89.png"
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/89.png",
+      "collections": "Shapes"
    },
    {
       "name":"88",
@@ -168,7 +171,7 @@
       "name":"72",
       "author":"Droid Beauty",
       "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/72.png",
-      "collections": "Out of The Blue"
+      "collections": "Shapes"
    },
    {
       "name":"71",
@@ -324,7 +327,7 @@
       "name":"46",
       "author":"Droid Beauty",
       "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/46.png",
-      "collections": "Yerba"
+      "collections": "Shapes"
    },
    {
       "name":"45",
