@@ -1,5 +1,13 @@
 [
    {
+      "name":"430",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/430.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/430-min.png",
+      "collections":"Shapes",
+      "downloadable":false
+   },
+   {
       "name":"429",
       "author":"Droid Beauty",
       "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/429.png",
@@ -768,11 +776,11 @@
       "downloadable":false
    },
    {
-      "name":"330",
+      "name":"333",
       "author":"Droid Beauty",
       "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/333.png",
       "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/333-min.png",
-      "collections":"Shapes",
+      "collections":"Wavy",
       "downloadable":false
    },
    {
@@ -796,7 +804,7 @@
       "author":"Droid Beauty",
       "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/330.png",
       "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/330-min.png",
-      "collections":"Shapes",
+      "collections":"Wavy",
       "downloadable":false
    },
    {
@@ -1404,7 +1412,7 @@
       "author":"Droid Beauty",
       "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/254.png",
       "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/254-min.png",
-      "collections":"Wavy Dark",
+      "collections":"Wavy",
       "downloadable":false
    },
    {
@@ -1820,7 +1828,7 @@
       "author":"Droid Beauty",
       "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/202.png",
       "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/202-min.png",
-      "collections":"Yerba",
+      "collections":"Wavy",
       "downloadable":false
    },
    {
