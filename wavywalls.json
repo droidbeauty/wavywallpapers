@@ -1,9 +1,81 @@
 [
    {
-      "name":"490",
+      "name":"500",
       "author":"Droid Beauty",
-      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/490.png",
-      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/490-min.png",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/500.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/500-min.png",
+      "collections":"Shapes",
+      "downloadable":false
+   },
+   {
+      "name":"499",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/499.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/499-min.png",
+      "collections":"Out of The Blue",
+      "downloadable":false
+   },
+   {
+      "name":"498",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/498.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/498-min.png",
+      "collections":"Shapes",
+      "downloadable":false
+   },
+   {
+      "name":"497",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/497.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/497-min.png",
+      "collections":"Yerba",
+      "downloadable":false
+   },
+   {
+      "name":"496",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/496.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/496-min.png",
+      "collections":"Shapes",
+      "downloadable":false
+   },
+   {
+      "name":"495",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/495.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/495-min.png",
+      "collections":"Shapes",
+      "downloadable":false
+   },
+   {
+      "name":"494",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/494.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/494-min.png",
+      "collections":"Shapes",
+      "downloadable":false
+   },
+   {
+      "name":"493",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/493.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/493-min.png",
+      "collections":"Shapes",
+      "downloadable":false
+   },
+   {
+      "name":"492",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/492.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/492-min.png",
+      "collections":"Dots",
+      "downloadable":false
+   },
+   {
+      "name":"491",
+      "author":"Droid Beauty",
+      "url":"https://raw.githubusercontent.com/droidbeauty/wavywallpapers/main/491.png",
+      "thumbnail":"https://raw.githubusercontent.com/droidbeauty/wavycompr/main/491-min.png",
       "collections":"Shapes",
       "downloadable":false
    },
